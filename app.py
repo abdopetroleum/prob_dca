@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px  # (not used below, but kept if you add Plotly charts later)
 import numpy as np
 import matplotlib.pyplot as plt
 from dca_oop import ARPS
